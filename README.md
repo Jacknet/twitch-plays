@@ -16,7 +16,7 @@ Requirements
 
 Use a [2.7.x release](http://www.python.org/download/releases/2.7/) of Python.
 
-For Microsoft Windows, keystrokes are performed by using Windows API calls through the [PyWin32 extension](http://sourceforge.net/projects/pywin32/), which must be installed alongside a normal Python installation.
+For Microsoft Windows, keystrokes are performed by using Windows API calls through the [PyWin32 extension](https://github.com/mhammond/pywin32), which must be installed alongside a normal Python installation.
 
 For macOS/Linux/*NIX installs, keystrokes are performed through xdotool/xautomation. Check your distro's repositories if it's available for install through your package manager.
 
