@@ -14,7 +14,7 @@ Under the MIT license.
 Requirements
 ============
 
-Use a [2.7.x release](http://www.python.org/download/releases/2.7/) of Python.
+Use [Python 2.7.18](https://www.python.org/downloads/release/python-2718/).
 
 For Microsoft Windows, keystrokes are performed by using Windows API calls through the [PyWin32 extension](https://github.com/mhammond/pywin32), which must be installed alongside a normal Python installation.
 
